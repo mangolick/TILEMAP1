@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: layer2
+    uniqueID: 2339705915
+    locked: 0
+  - name: layer 3
+    uniqueID: 2758152469
+    locked: 0
+  - name: square1
+    uniqueID: 416855579
+    locked: 0
+  - name: square
+    uniqueID: 597314805
+    locked: 0
+  - name: tilemap
+    uniqueID: 3427522729
+    locked: 0
+  - name: dec
+    uniqueID: 3338429903
+    locked: 0
+  - name: Bg
+    uniqueID: 495021067
+    locked: 0
